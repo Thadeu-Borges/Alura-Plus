@@ -161,7 +161,7 @@ body {
     }
     
     .container__imagem {
-        width: 50vw;
+        width: auto;
     }
 
     .container__caixa {
@@ -174,7 +174,7 @@ body {
     }
 
     .secundario__imagem {
-        width: 50vw;
+        width: auto;
     }
 
     .dispositivos__lista {
